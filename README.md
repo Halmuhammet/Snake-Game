@@ -1,5 +1,5 @@
 # 🐍 Snake Game - OpenGL C++
-```![snake game](https://github.com/user-attachments/assets/6fabcaa1-533b-43b2-99e1-0fda1dc75781)```markdown
+![snake game](https://github.com/user-attachments/assets/6fabcaa1-533b-43b2-99e1-0fda1dc75781)
 Welcome to the Snake Game! This README provides essential instructions on how to play, control the snake, and understand the game’s mechanics.
 
 ---
