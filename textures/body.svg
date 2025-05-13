@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <pattern id="snakeSkin" patternUnits="userSpaceOnUse" width="20" height="20">
+      <path d="M0,0 L10,10 L20,0 L10,20 Z" fill="rgba(60,120,80,0.5)" />
+    </pattern>
+  </defs>
+  
+  <!-- Base square with distinct green color -->
+  <rect 
+    x="0" 
+    y="0" 
+    width="100" 
+    height="100" 
+    fill="#00AA55" 
+    stroke="#006633" 
+    stroke-width="4"
+  />
+  
+  <!-- Overlay snake skin pattern -->
+  <rect 
+    x="0" 
+    y="0" 
+    width="100" 
+    height="100" 
+    fill="url(#snakeSkin)"
+  />
+</svg>

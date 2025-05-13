@@ -1,0 +1,5 @@
+improvement needed on:
+1) jittery snake movement
+2) apply texture
+3) adjust game speed as game goes on
+4) add game logic; for example, bigger foods that give more length to the snake
